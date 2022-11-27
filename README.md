@@ -47,4 +47,4 @@ And when we open Dev tools, as you can see, query params are included as plain t
 In our tutorial, we will use a more secure approach, we will send credentials as socket.emit() message
 The a connection is established between and the server and the client
 
-[img](https://miro.medium.com/max/4800/1*eU0o4wRMa0-zStKzjNt-3w.webp)
+![img](https://miro.medium.com/max/4800/1*eU0o4wRMa0-zStKzjNt-3w.webp)
