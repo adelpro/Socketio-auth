@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user__container > img {
+  width: 100px;
+  height: 100px;
+}
+.user__container button {
+  margin: 5px;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 120px;
+  cursor: pointer;
+}
+.login__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__container button,
+input {
+  margin: 5px;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.login__container button,
+input {
+  padding-left: 5px;
+}
+.login__container input {
+  width: 250px;
+}
+.login__container button {
+  width: 120px;
+  cursor: pointer;
+}

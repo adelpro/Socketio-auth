@@ -1,0 +1,20 @@
+{
+  "name": "socketio-auth-backend",
+  "version": "1.0.0",
+  "description": "Socketio with authentication and jwt",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "author": "adelpro",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.7.3",
+    "socket.io": "^4.5.3",
+    "underscore": "^1.13.6"
+  }
+}
