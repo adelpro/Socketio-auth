@@ -2,7 +2,7 @@
 
 Implement User/Password Authentication in Socket.IO and ReactJS
 
-In this project we will use ReactJS to build authentication system to secure Socket.IO access.
+In this project we will use ReactJS to build an authentication system to secure Socket.IO access.
 
 ## In the front-end
 
