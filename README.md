@@ -48,3 +48,10 @@ In our tutorial, we will use a more secure approach, we will send credentials as
 The a connection is established between and the server and the client
 
 ![img](https://miro.medium.com/max/4800/1*eU0o4wRMa0-zStKzjNt-3w.webp)
+
+## Thank you
+
+[![Stargazers repo roster for @adelpro/Socketio-auth](https://reporoster.com/stars/adelpro/Socketio-auth)](https://github.com/adelpro/Socketio-auth/stargazers)
+
+[![Forkers repo roster for @adelpro/Socketio-auth](https://reporoster.com/forks/adelpro/Socketio-auth)](https://github.com/adelpro/Socketio-auth/network/members)
+
